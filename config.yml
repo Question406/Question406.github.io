@@ -1,6 +1,7 @@
 baseURL: "https://question406.github.io/"
 languageCode: 'en-us'
-title: 'Jiabao Ji'
+#title: "Jiabao Ji (计家宝)"
+title: "Jiabao Ji"
 
 theme: "researcher"
 enableEmoji: true
