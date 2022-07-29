@@ -21,7 +21,8 @@ params:
   favicon: favicon.ico
   logo: ""
   footer:
-    text: Credit to the Theme by Olivier Roques, with a bit modification for better icon support
+    #text: Credit to the Theme by Olivier Roques, with a bit modification for better icon support
+    text: Credit to the Theme by Olivier Roques, with a bit modification 
     url: https://github.com/ojroques/hugo-researcher
   style:
     # fontFamily: Inconsolata

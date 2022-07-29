@@ -37,4 +37,4 @@ Findings of ACL 2022
 I'm a KDE+archlinux user with good animation and enormous amount of apps brought by pacman. I started to use Vim and tiling window manager like i3/dwm recently.
 
 I like many sports. I'm a fan of Leo Messi, Derrick Rose, Tadej Pogačar.\
-I like watching sci-fi movies and reading sci-fi books.
+I like sci-fi movies and sci-fi books.
