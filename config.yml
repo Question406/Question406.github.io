@@ -11,8 +11,6 @@ disableKinds:
   - taxonomy
   - term
 
-enableEmoji: true
-math: true
 googleAnalytics: ""
 
 params:
