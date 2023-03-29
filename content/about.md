@@ -10,7 +10,7 @@ Jiabao Ji is a first-year Ph.D. student at UCSB advised by [Prof. Shiyu Chang](h
 
 Before that, he obtained B.S. in Computer Science at [ACM class](https://acm.sjtu.edu.cn/home), Shanghai Jiao Tong University. He was a research assistant in [X-Lance Lab](https://x-lance.sjtu.edu.cn/en) supervised by [Prof. Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu) and [Prof. Lu Chen](https://coai-sjtu.github.io). He did a remote internship at [SLS Lab](http://groups.csail.mit.edu/sls/), advised by [Prof. James Glass](http://groups.csail.mit.edu/sls/people/glass.shtml) and [Dr. Tianxing He](https://people.csail.mit.edu/cloudygoose/).
 
-#Currently, he is working on natrual language generation and dialogue system.
+Currently, he is working on text-to-image diffusion models and large langauge models.
 
 <br/>
 
