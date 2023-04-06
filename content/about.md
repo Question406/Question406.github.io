@@ -21,8 +21,8 @@ Currently, he is working on text-to-image diffusion models and large langauge mo
 
 ## Publications
 
-* [DialogZoo: Large-Scale Dialog-Oriented Task Learning](https://arxiv.org/abs/2205.12662)\
-<small> Zhi Chen, **Jijia Bao**, Lu Chen, Yuncong Liu, Da Ma, Bei Chen, Mengyue Wu, Su Zhu, Jian-Guang Lou, Kai Yu \
+* [DFM: Dialogue Foundation Model for Universal Large-Scale Dialogue-Oriented Task Learning](https://arxiv.org/abs/2205.12662)\
+<small> Zhi Chen, **Jiabao Ji**, Lu Chen, Yuncong Liu, Da Ma, Bei Chen, Mengyue Wu, Su Zhu, Jian-Guang Lou, Kai Yu \
 Arxiv
 </small>
 * [Controlling the Focus of Pretrained Language Generation Models](https://aclanthology.org/2022.findings-acl.260/)\
