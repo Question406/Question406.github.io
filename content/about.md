@@ -21,6 +21,13 @@ Currently, he is working on text-to-image diffusion models and large langauge mo
 
 ## Publications
 
+
+
+* [Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models](https://arxiv.org/abs/2304.03322)\
+<small> Guanhua Zhang<sup>‡</sup>, **Jiabao Ji**<sup>‡</sup>, Yang Zhang, Mo Yu, Tommi Jaakkola, Shiyu Chang\
+Arxiv, [Code](https://github.com/UCSB-NLP-Chang/CoPaint/)
+</small>
+
 * [DFM: Dialogue Foundation Model for Universal Large-Scale Dialogue-Oriented Task Learning](https://arxiv.org/abs/2205.12662)\
 <small> Zhi Chen, **Jiabao Ji**, Lu Chen, Yuncong Liu, Da Ma, Bei Chen, Mengyue Wu, Su Zhu, Jian-Guang Lou, Kai Yu \
 Arxiv
@@ -33,6 +40,7 @@ Findings of ACL 2022
 <small>Xingyu Chen, Zihan Zhao, Lu GChen, **JiaBao Ji**, Danyang Zhang, Ao Luo, Yuxuan Xiong, and Kai Yu </small> \
 <small>EMNLP 2021 </small>
 
+‡ indicates equal contribution.
 
 ## Misc
 I was a KDE+archlinux user with good animation and enormous amount of apps brought by pacman. But I changed to MacOS for more stable environment :( 
