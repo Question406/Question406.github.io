@@ -21,7 +21,10 @@ Currently, he is working on text-to-image diffusion models and large langauge mo
 
 ## Publications
 
-
+* [Improving Diffusion Models for Scene Text Editing with Dual Encoders](https://arxiv.org/abs/2304.05568)\
+<small> **Jiabao Ji**<sup>‡</sup>, Guanhua Zhang<sup>‡</sup>, Zhaowen Wang, Bairu Hou, Zhifei Zhang, Brian Price, Shiyu Chang \
+Arxiv, [Code](https://github.com/UCSB-NLP-Chang/DiffSTE/)
+</small>
 
 * [Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models](https://arxiv.org/abs/2304.03322)\
 <small> Guanhua Zhang<sup>‡</sup>, **Jiabao Ji**<sup>‡</sup>, Yang Zhang, Mo Yu, Tommi Jaakkola, Shiyu Chang\
