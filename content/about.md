@@ -28,7 +28,7 @@ Arxiv, [Code](https://github.com/UCSB-NLP-Chang/DiffSTE/)
 
 * [Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models](https://arxiv.org/abs/2304.03322)\
 <small> Guanhua Zhang<sup>‡</sup>, **Jiabao Ji**<sup>‡</sup>, Yang Zhang, Mo Yu, Tommi Jaakkola, Shiyu Chang\
-Arxiv, [Code](https://github.com/UCSB-NLP-Chang/CoPaint/)
+ICML`23, [Code](https://github.com/UCSB-NLP-Chang/CoPaint/)
 </small>
 
 * [DFM: Dialogue Foundation Model for Universal Large-Scale Dialogue-Oriented Task Learning](https://arxiv.org/abs/2205.12662)\
@@ -37,11 +37,11 @@ Arxiv
 </small>
 * [Controlling the Focus of Pretrained Language Generation Models](https://aclanthology.org/2022.findings-acl.260/)\
 <small> **Jiabao Ji**, Yoon Kim, James Glass, Tianxing He \
-Findings of ACL 2022
+Findings of ACL`22
 </small>
 * [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://aclanthology.org/2021.emnlp-main.343/)\
 <small>Xingyu Chen, Zihan Zhao, Lu GChen, **JiaBao Ji**, Danyang Zhang, Ao Luo, Yuxuan Xiong, and Kai Yu </small> \
-<small>EMNLP 2021 </small>
+<small>EMNLP`21</small>
 
 ‡ indicates equal contribution.
 
