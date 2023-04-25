@@ -37,7 +37,7 @@ Arxiv
 </small>
 * [Controlling the Focus of Pretrained Language Generation Models](https://aclanthology.org/2022.findings-acl.260/)\
 <small> **Jiabao Ji**, Yoon Kim, James Glass, Tianxing He \
-Findings of ACL`22
+Findings of ACL`22, [Code](https://github.com/question406/learningtofocus)
 </small>
 * [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://aclanthology.org/2021.emnlp-main.343/)\
 <small>Xingyu Chen, Zihan Zhao, Lu GChen, **JiaBao Ji**, Danyang Zhang, Ao Luo, Yuxuan Xiong, and Kai Yu </small> \
