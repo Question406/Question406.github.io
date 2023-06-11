@@ -1,7 +1,7 @@
 source: .
 destination: ./_site
 includes: ./_includes
-baseurl: /
+baseurl: https://question406.github.io
 
 collections:
   projects:
