@@ -1,0 +1,23 @@
+experiences:
+  - place: "Adobe research"
+    time: "2023 Summer"
+    title: "Research Intern"
+    # subtitle: "MS&E"
+    category: "work"
+
+  - place: "UCSB"
+    time: "2022 - now"
+    title: "Ph.D. Student"
+    # subtitle: "MS&E"
+    category: "school"
+
+  - place: "X-Lance Lab"
+    time: "2019 - 2022"
+    title: "Research Assistant"
+    category: "school"
+
+  - place: "SJTU"
+    time: "2018 - 2022"
+    title: "B.S. Student"
+    # subtitle: "MS&E"
+    category: "school"

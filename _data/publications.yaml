@@ -1,0 +1,34 @@
+papers:
+  - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
+    authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Guanhua Zhang<sup>&#8225;</sup>, Zhaowen Wang, Bairu Hou, Zhifei Zhang, Brian Price, Shiyu Chang"
+    venue: "Arxiv"
+    selected: n
+    paper_pdf: https://arxiv.org/abs/2304.05568
+    code: https://github.com/UCSB-NLP-Chang/DiffSTE/
+
+  - title: "Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models"
+    authors: "Guanhua Zhang<sup>&#8225;</sup>, <b>Jiabao Ji</b><sup>&#8225;</sup>, Yang Zhang, Mo Yu, Tommi Jaakkola, Shiyu Chang"
+    venue: "ICML'23"
+    selected: y
+    paper_pdf: https://arxiv.org/abs/2304.03322
+    code: https://github.com/UCSB-NLP-Chang/CoPaint/
+
+  - title: "DFM: Dialogue Foundation Model for Universal Large-Scale Dialogue-Oriented Task Learning"
+    authors: "Zhi Chen, <b>Jiabao Ji</b>, Lu Chen, Yuncong Liu, Da Ma, Bei Chen, Mengyue Wu, Su Zhu, Jian-Guang Lou, Kai Yu"
+    venue: "Arxiv"
+    selected: n
+    paper_pdf: https://arxiv.org/abs/2205.12662
+
+  - title: "Controlling the Focus of Pretrained Language Generation Models"
+    authors: "<b>Jiabao Ji</b>, Yoon Kim, James Glass, Tianxing He"
+    venue: "Findings of ACL'22"
+    selected: y
+    paper_pdf: https://aclanthology.org/2022.findings-acl.260/
+    code: https://github.com/question406/learningtofocus
+
+  - title: "WebSRC: A Dataset for Web-Based Structural Reading Comprehension"
+    authors: "Xingyu Chen, Zihan Zhao, Lu Chen, <b> Jiabao Ji</b>, Danyang Zhang, Ao Luo, Yuxuan Xiong, Kai Yu"
+    venue: "EMNLP'21"
+    selected: y
+    paper_pdf: https://aclanthology.org/2021.emnlp-main.343/
+    data: https://x-lance.github.io/WebSRC/

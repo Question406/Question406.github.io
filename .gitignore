@@ -1,2 +1,5 @@
-resources/_gen/
-.hugo_build.lock
+.DS_Store
+*/.DS_Store
+.jekyll-cache
+_site/*
+_snap_md5.txt
