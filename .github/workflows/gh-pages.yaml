@@ -33,37 +33,3 @@ jobs:
           cname: ''                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
-
-#name: Jekyll Build
-#
-#on:
-#  push:
-#    branches:
-#      - main
-#  pull_request:
-#    branches:
-#      - main
-#
-#jobs:
-#  build:
-#    runs-on: ubuntu-latest
-#
-#    steps:
-#      - uses: actions/checkout@v3
-#      - uses: ruby/setup-ruby@v1
-#        with:
-#          ruby-version: '3.0' # Not needed with a .ruby-version file
-#          bundler-cache: true 
-#
-#      - name: Install Dependency
-#        run: bundle exec rake
-#
-#      - name: Build Jekyll
-#        run: bundle exec jekyll build
-#
-#      - name: Deploy to GitHub Pages
-#        uses: peaceiris/actions-gh-pages@v3
-#        if: github.ref == 'refs/heads/main'
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          publish_dir: ./_site
