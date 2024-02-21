@@ -1,7 +1,7 @@
 papers:
   - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
     authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Guanhua Zhang<sup>&#8225;</sup>, Zhaowen Wang, Bairu Hou, Zhifei Zhang, Brian Price, Shiyu Chang"
-    venue: "TMLR"
+    venue: "TMLR'24"
     selected: y
     paper_pdf: https://arxiv.org/abs/2304.05568
     code: https://github.com/UCSB-NLP-Chang/DiffSTE/
