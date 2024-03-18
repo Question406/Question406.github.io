@@ -1,4 +1,18 @@
 papers:
+  - title: "Defending Large Language Models against Jailbreak Attacks via Semantic Smoothing"
+    authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Bairu Hou<sup>&#8225;</sup>, Alexander Robey<sup>&#8225;</sup>, George J Pappas, Hamed Hassani, Yang Zhang, Eric Wong, Shiyu Chang"
+    venue: "Arxiv"
+    selected: n
+    paper_pdf: https://arxiv.org/abs/2402.16192
+    code: https://github.com/UCSB-NLP-Chang/SemanticSmooth
+
+  - title: "Advancing the Robustness of Large Language Models through Self-Denoised Smoothing"
+    authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Bairu Hou<sup>&#8225;</sup>, Zhen Zhang<sup>&#8225;</sup>, Guanhua Zhang<sup>&#8225;</sup>, Wenqi Fan, Qing Li, Yang Zhang, Gaowen Liu, Sijia Liu, Shiyu Chang"
+    venue: "NAACL'24"
+    selected: y
+    paper_pdf: https://arxiv.org/pdf/2307.07171.pdf
+    code: https://github.com/UCSB-NLP-Chang/SelfDenoise
+
   - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
     authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Guanhua Zhang<sup>&#8225;</sup>, Zhaowen Wang, Bairu Hou, Zhifei Zhang, Brian Price, Shiyu Chang"
     venue: "TMLR'24"
