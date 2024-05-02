@@ -10,7 +10,7 @@ papers:
     authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Bairu Hou<sup>&#8225;</sup>, Zhen Zhang<sup>&#8225;</sup>, Guanhua Zhang<sup>&#8225;</sup>, Wenqi Fan, Qing Li, Yang Zhang, Gaowen Liu, Sijia Liu, Shiyu Chang"
     venue: "NAACL'24"
     selected: y
-    paper_pdf: https://arxiv.org/pdf/2307.07171.pdf
+    paper_pdf: https://arxiv.org/abs/2404.12274
     code: https://github.com/UCSB-NLP-Chang/SelfDenoise
 
   - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
