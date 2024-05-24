@@ -1,8 +1,12 @@
 experiences:
+  - place: "Meta research"
+    time: "2024 Summer"
+    title: "Research Intern"
+    category: "work"
+
   - place: "Adobe research"
     time: "2023 Summer"
     title: "Research Intern"
-    # subtitle: "MS&E"
     category: "work"
 
   - place: "UCSB"
