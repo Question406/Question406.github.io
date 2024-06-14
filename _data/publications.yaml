@@ -1,6 +1,6 @@
 papers:
   - title: "Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference"
-    authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Yujian Liu<sup>&#8225;</sup>, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang"
+    authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang"
     venue: "Arxiv"
     selected: y
     paper_pdf: https://arxiv.org/abs/2406.08607
