@@ -1,7 +1,7 @@
 papers:
   - title: "Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference"
     authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang"
-    venue: "NeuralIPS'24"
+    venue: "NeurIPS'24"
     selected: y
     paper_pdf: https://arxiv.org/abs/2406.08607
     code: https://github.com/UCSB-NLP-Chang/ULD
