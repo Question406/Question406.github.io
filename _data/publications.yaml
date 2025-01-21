@@ -23,7 +23,7 @@ papers:
   - title: "Improving Diffusion Models for Scene Text Editing with Dual Encoders"
     authors: "<b>Jiabao Ji</b><sup>&#8225;</sup>, Guanhua Zhang<sup>&#8225;</sup>, Zhaowen Wang, Bairu Hou, Zhifei Zhang, Brian Price, Shiyu Chang"
     venue: "TMLR'23"
-    selected: y
+    selected: n
     paper_pdf: https://arxiv.org/abs/2304.05568
     code: https://github.com/UCSB-NLP-Chang/DiffSTE/
 
@@ -50,6 +50,6 @@ papers:
   - title: "WebSRC: A Dataset for Web-Based Structural Reading Comprehension"
     authors: "Xingyu Chen, Zihan Zhao, Lu Chen, <b> Jiabao Ji</b>, Danyang Zhang, Ao Luo, Yuxuan Xiong, Kai Yu"
     venue: "EMNLP'21"
-    selected: y
+    selected: n
     paper_pdf: https://aclanthology.org/2021.emnlp-main.343/
     data: https://x-lance.github.io/WebSRC/
